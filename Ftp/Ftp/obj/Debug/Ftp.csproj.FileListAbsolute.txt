@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\FTP\Ftp\Ftp\bin\Debug\Ftp.exe.config
+C:\Users\Administrator\Desktop\FTP\Ftp\Ftp\bin\Debug\Ftp.exe
+C:\Users\Administrator\Desktop\FTP\Ftp\Ftp\bin\Debug\Ftp.pdb
+C:\Users\Administrator\Desktop\FTP\Ftp\Ftp\obj\Debug\Ftp.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\FTP\Ftp\Ftp\obj\Debug\Ftp.exe
+C:\Users\Administrator\Desktop\FTP\Ftp\Ftp\obj\Debug\Ftp.pdb
